@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y9l++koER7OEhU7rFElB/G3pjgOu3Dz2DMTtU0MifQBiCBjzTygWQGlvFAymeBjNNgHcXEXXyF574+3C0FVOhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\win10\\source\\repos\\VerTabanProje\\VerTabanProje\\VerTabanProje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\win10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\win10\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\win10\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
